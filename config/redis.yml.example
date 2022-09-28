@@ -1,0 +1,12 @@
+data:
+  server: 127.0.0.1:6379
+  db: 6
+  pool: 5
+limit:
+  server: 127.0.0.1:6379
+  db: 7
+  pool: 5
+publish:
+  server: 127.0.0.1:6379
+  db: 8
+  pool: 5
