@@ -20,3 +20,6 @@ api_v2
 api_v4
 otc
 oauth
+.vscode/
+.idea/
+
